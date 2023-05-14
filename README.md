@@ -13,10 +13,10 @@
 
 
 <h2>
-  🛠️ Инструменты:
+  🛠️ Инструменты, которые использовались при разработке скрипта:
 </h2>
 
-- python
+- Python
 
 
 
@@ -28,9 +28,9 @@
   🚀 Зпуск приложения:
 </h2>
 
-- git clone https://github.com/ElishaFlacon/create-dot-file.git
-- cd create-dot-file
-- python create_dot_file_name.py
+- `git clone https://github.com/ElishaFlacon/create-dot-file.git`
+- `cd create-dot-file`
+- `python create_dot_file_name.py`
 <h3>
     Запускаем, не работет, ура! 🗿🚬
 </h3>
